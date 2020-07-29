@@ -1,4 +1,4 @@
-# 2020-07-29-git-kek
+# 2020-07-29-git-kek edit
 'git init' : create a repository in your current folder
 'git status' : tells you everything you need to know about the current state
 
