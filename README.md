@@ -7,3 +7,4 @@
 'git log -- oneline' : will give you the online version of the log
 'git diff' : diff the current state with the last known git state	
 	'git diff --staged' : diff files 
+	Conflict 
